@@ -1,4 +1,5 @@
 # How much you know about me!
+A CLI app built using NodeJS, JavaScript and Chalk library.
 
 ## Let's Play!
 
